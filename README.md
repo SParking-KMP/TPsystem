@@ -65,18 +65,18 @@ planeación de actividades área de sistemas para el año 2025
 
 | Programador             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| David | ![Contabilidad](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| David | ![Contabilidad](imagenes/parking.png) #0a192f |
 | Leandro | ![Sistema](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Jorge Jr | ![Talento humano](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Daniel | ![Operaciones](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 | Soporte             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Andres Felipe | ![Coordinador](https://via.placeholder.com/10/0a192f?text=+) |
-| Cristian | ![Soporte Sparking](https://via.placeholder.com/10/f8f8f8?text=+) |
-| Edwin Bedoya | ![Soporte Sparking](https://via.placeholder.com/10/f8f8f8?text=+) |
-| Yamilson | ![Instalador](https://via.placeholder.com/10/00b48a?text=+)  |
-| Jorge Luis | ![Analista Soporte](https://via.placeholder.com/10/00b48a?text=+) |
+| Andres Felipe | ![Coordinador](imagenes/parking.png) |
+| Cristian | ![Soporte Sparking](imagenes/parking.png) |
+| Edwin Bedoya | ![Soporte Sparking](imagenes/parking.png) |
+| Yamilson | ![Instalador](imagenes/parking.png)  |
+| Jorge Luis | ![Analista Soporte](imagenes/parking.png) |
 
 ## Calendario
 
