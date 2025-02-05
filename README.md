@@ -69,10 +69,10 @@ Se realizara primero el cambio del Sisnot a la mesa de ayuda migrando todas las 
 
 | Desarrollador             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| David | <img src="imagenes/bank_account.png" alt="Contabilidad" width="60"> **Contabilidad** |
+| David | <img src="imagenes/bank-account.png" alt="Contabilidad" width="60"> **Contabilidad** |
 | Leandro | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Sistema** |
-| Jorge Jr | <img src="imagenes/talent_pool.png" alt="Talento humano" width="60"> **Talento humano**  |
-| Daniel | <img src="imagenes/parking.png" alt="Operaciones" width="60"> |
+| Jorge Jr | <img src="imagenes/talent-pool-gray.png" alt="Talento humano" width="60"> **Talento humano**  |
+| Daniel | <img src="imagenes/parking_gray.png" alt="Operaciones" width="60"> |
 
 | Soporte             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -136,11 +136,6 @@ Implementacion de sistemas asistidos, instalacion de equipos de automatizacion, 
 
 ## 🛠 Entorno
 Fleet, Android Studio
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Badges
