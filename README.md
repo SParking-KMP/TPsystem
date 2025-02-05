@@ -65,10 +65,10 @@ planeación de actividades área de sistemas para el año 2025
 
 | Programador             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| David | ![Contabilidad](<img src="imagenes/parking.png" alt="Logo" width="200">) #0a192f |
-| Leandro | ![Sistema](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Jorge Jr | ![Talento humano](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Daniel | ![Operaciones](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| David | <img src="imagenes/parking.png" alt="Logo" width="50"> |
+| Leandro | ![Sistema](https://via.placeholder.com/10/f8f8f8?text=+)  |
+| Jorge Jr | ![Talento humano](https://via.placeholder.com/10/00b48a?text=+)  |
+| Daniel | ![Operaciones](https://via.placeholder.com/10/00b48a?text=+)  |
 
 | Soporte             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
