@@ -2,10 +2,10 @@
 <img src="imagenes/1000000121.png" alt="Logo" width="200">
 
 # Planeación
-planeación de actividades área de sistemas para el año 2025
+Planeación de actividades área de sistemas para el año 2025
 
 
-## Integrantes programacion
+## Integrantes desarrollo
 
 - [@David Palacio](https://github.com/dapalamac94)
 - [@Leandro Madrigal](https://github.com/leo-1507)
@@ -32,9 +32,9 @@ planeación de actividades área de sistemas para el año 2025
 - [@Camilo Sanchez](https://github.com/dgomezcothps)
 - [@Jhoan Felipe Moreno](https://github.com/dgomezcothps)
 
-## Documentation
+## Documentación
 
-[Documentation](https://linktodocumentation)
+[Documentación de todos los requerimientos, desarrollos y errores]([https://linktodocumentation](https://github.com/SParking-KMP))
 
 
 ## Prioridad
@@ -58,10 +58,16 @@ planeación de actividades área de sistemas para el año 2025
 | 9 | Novena prioridad--9 semana--8dias  | 
 | 10 | Ultima prioridad--10 semana--9dias  | 
 
+## Inplementacion mesa de ayuda
+
+[Cambio y capacitacion a nueva mesa de ayuda (control de tareas y documentacion) ](https://helpdesk.archivostheparking.online/).
+
+Se realizara primero el cambio del Sisnot a la mesa de ayuda migrando todas las tareas existentes y posterior la implementación interna en el área de sistemas posteriormente se pasaran a las otras áreas cuando sea debido.
+
 
 ## Distribucion
 
-| Programador             | Área encargada                                                                |
+| Desarrollador             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | David | <img src="imagenes/bank_account.png" alt="Contabilidad" width="60"> **Contabilidad** |
 | Leandro | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Sistema** |
@@ -80,7 +86,7 @@ planeación de actividades área de sistemas para el año 2025
 
 Se establecieron una cantidad de actividades por mes los cuales tendrán el objetivo de controlar y entregar los proyectos existentes en el área de sistemas
 
-## Programacion
+## planificación mensual
 
 | Mes | David | Leandro | Jorje |Daniel |
 |----------|----------|----------|----------|----------|
@@ -114,13 +120,19 @@ Revision de viabilidad y ajuste de meses siguientes, con esta actividad se prete
 ## Calendario Mayorista
 Mantenimiento, inventario, entrega de informes y soporte de operacion diario, soporte en noches en estacionamientos requeridos.
 
-
 ## Calendario Minorista
 Implementacion de sistemas asistidos, instalacion de equipos de automatizacion, puesta en marcha automatizacion y estabilizacion, Informes y acompañamiento.
 
-## Inplementacion mesa de ayuda
+## Horarios de atención
 
-[Cambio y capacitacion a nueva mesa de ayuda (control de tareas y documentacion) ](https://helpdesk.archivostheparking.online/)
+| Equipo             | Horas                 |
+| ----------------- | ------------------------------------------------------------------ |
+| Soporte | 07:00 -- 18:00 |
+| Mayorista(Remoto) | 18:00 -- 07:00 |
+| Minorista |     *     |
+| Desarrollo | 07:00 -- 18:00 **|
+
+*;)
 
 ## 🛠 Entorno
 Fleet, Android Studio
