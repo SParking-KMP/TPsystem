@@ -1,9 +1,7 @@
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-yr526S_n2iqhANExZBORSiwUeqEVwnL_w&s)
+<img src="imagenes/1000000121.png" alt="Logo" width="200">
 
-
-# Planeacion
-
+# Planeación
 planeación de actividades área de sistemas para el año 2025
 
 
@@ -65,18 +63,18 @@ planeación de actividades área de sistemas para el año 2025
 
 | Programador             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| David | <div style="background-color: white;"><img src="images/parking.png" alt="Contabilidad" width="50"><br>Contabilidad</div> | 
-| Leandro | ![Sistema](https://via.placeholder.com/10/f8f8f8?text=+)  |
-| Jorge Jr | ![Talento humano](https://via.placeholder.com/10/00b48a?text=+)  |
-| Daniel | ![Operaciones](https://via.placeholder.com/10/00b48a?text=+)  |
+| David | <img src="imagenes/bank_account.png" alt="Contabilidad" width="60"> **Contabilidad** |
+| Leandro | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Sistema** |
+| Jorge Jr | <img src="imagenes/talent_pool.png" alt="Talento humano" width="60"> **Talento humano**  |
+| Daniel | <img src="imagenes/parking.png" alt="Operaciones" width="60"> |
 
 | Soporte             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Andres Felipe | ![Coordinador](imagenes/parking.png) |
-| Cristian | ![Soporte Sparking](imagenes/parking.png) |
-| Edwin Bedoya | ![Soporte Sparking](imagenes/parking.png) |
-| Yamilson | ![Instalador](imagenes/parking.png)  |
-| Jorge Luis | ![Analista Soporte](imagenes/parking.png) |
+| Andres Felipe | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Coordinador** |
+| Cristian |  <img src="imagenes/system-integration.png" alt="Soporte Sparking" width="60"> **Soporte Sparking** |
+| Edwin Bedoya |  <img src="imagenes/system-integration.png" alt="Soporte Sparking" width="60"> **Soporte Sparking**|
+| Yamilson |  <img src="imagenes/system-integration.png" alt="Instalador" width="60"> **Instalador**  |
+| Jorge Luis |  <img src="imagenes/system-integration.png" alt="Analista Soporte" width="60"> **Analista Soporte** |
 
 ## Calendario
 
