@@ -72,7 +72,7 @@ Se realizara primero el cambio del Sisnot a la mesa de ayuda migrando todas las 
 | David | <img src="imagenes/bank-account.png" alt="Contabilidad" width="60"> **Contabilidad** |
 | Leandro | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Sistema** |
 | Jorge Jr | <img src="imagenes/talent-pool-gray.png" alt="Talento humano" width="60"> **Talento humano**  |
-| Daniel | <img src="imagenes/parking_gray.png" alt="Operaciones" width="60"> |
+| Daniel | <img src="imagenes/parking_gray.png" alt="Operaciones" width="60"> **Operaciones**|
 
 | Soporte             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -88,7 +88,7 @@ Se establecieron una cantidad de actividades por mes los cuales tendrán el obje
 
 ## planificación mensual
 
-| Mes | David | Leandro | Jorje |Daniel |
+| Mes | David | Leandro | Jorge |Daniel |
 |----------|----------|----------|----------|----------|
 | Febrero | Documentación y conexión de facturadores.  | Conexión a servidor y protección de información. Implementacion privados platinum, Mesa de ayuda | Informes Web y control de empleados. | Sparking funcional para entradas salidas. |
 | Marzo | Métodos de pago: flypass, redeban, pse... | Creación de bases de datos, configuración de tarifas, precios, clientes | Diseños gráficos de informes con estadísticas y creación de calendario | Sparking Mensualidades. |
@@ -98,7 +98,7 @@ Se establecieron una cantidad de actividades por mes los cuales tendrán el obje
 
 Revision de viabilidad y ajuste de meses siguientes, con esta actividad se pretende conocer y edintificar los avances que se llevan y como mejorarlos,cambiarlos o presentarlos como finalizados.
 
-| Mes | David | Leandro | Jorje | Daniel |
+| Mes | David | Leandro | Jorge | Daniel |
 |----------|----------|----------|----------|----------|
 | Mayo | Test y pruebas de estrés del sistema(pagos)  | Test y pruebas de estrés del sistema(conexiones) | Test y pruebas de estrés del sistema(informes) |Test y pruebas de estrés del sistema(operación) |
 | Junio | Control de requerimientos | Control de requerimientos | Control de requerimientos | Control de requerimientos |
@@ -107,7 +107,7 @@ Revision de viabilidad y ajuste de meses siguientes, con esta actividad se prete
 
 ## Soporte
 
-| Mes | Yamilson | Cristian | Jorje Luis | Edwin |
+| Mes | Yamilson | Cristian | Jorge Luis | Edwin |
 |----------|----------|----------|----------|----------|
 | Febrero |  Implementacion platinum, minorista | Actualizacion Sparking, implementacion minorista, mantenimiento e inventario | mantenimiento equipos Horus, Inventario y implementacion Mayorista y minorista | Actualizacion Sparking, implementacion minorista, mantenimiento e inventario |
 | Marzo | Mantenimiento e instalacion camaras | Actualizacion Sparking, implementacion minorista, mantenimiento e inventario | Mantenimiento equipos Horus, Inventario y implementacion Mayorista y minorista  | Actualizacion Sparking, implementacion minorista, mantenimiento e inventario |
