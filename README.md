@@ -70,8 +70,8 @@ Se realizara primero el cambio del Sisnot a la mesa de ayuda migrando todas las 
 | Desarrollador             | Área encargada                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | David | <img src="imagenes/bank-account.png" alt="Contabilidad" width="60"> **Contabilidad** |
-| Leandro | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Sistema** |
-| Jorge Jr | <img src="imagenes/talent-pool-gray.png" alt="Talento humano" width="60"> **Talento humano**  |
+| Leandro | <img src="imagenes/system-integration.png" alt="Sistema" width="60"> **Talento humano** |
+| Jorge Jr | <img src="imagenes/talent-pool-gray.png" alt="Talento humano" width="60"> **Sistemas**  |
 | Daniel | <img src="imagenes/parking_gray.png" alt="Operaciones" width="60"> **Operaciones**|
 
 | Soporte             | Área encargada                                                                |
@@ -88,17 +88,17 @@ Se establecieron una cantidad de actividades por mes los cuales tendrán el obje
 
 ## planificación mensual
 
-| Mes | David | Leandro | Jorge |Daniel |
+| Mes | David | Jorge | Leandro |Daniel |
 |----------|----------|----------|----------|----------|
 | Febrero | Documentación y conexión de facturadores.  | Conexión a servidor y protección de información. Implementacion privados platinum, Mesa de ayuda | Informes Web y control de empleados. | Sparking funcional para entradas salidas. |
-| Marzo | Métodos de pago: flypass, redeban, pse... | Creación de bases de datos, configuración de tarifas, precios, clientes | Diseños gráficos de informes con estadísticas y creación de calendario | Sparking Mensualidades. |
-| Abril | Revision de todos los métodos de pagos e informes | Rendimiento en conexión a bases de datos y control validaciones, Mesa de ayuda  | Revision de informes y encuestas (retiros e ingresos) | Creación de cierres, informes de control de parqueo y empleados |
+| Marzo | Métodos de pago: flypass, redeban, pse... | Pagina web, inteegrada con todos los servicios  | Creacion del servicio de citacion a descargos o declaraciones de hechos | Sparking Mensualidades. |
+| Abril | Visualizacion de facturas y revision de cada facturador elecrtronico | Creación de bases de datos, configuración de tarifas, precios, clientes  | Revision de informes y encuestas (retiros e ingresos) | ValetParking - Creación de cierres, informes de control de parqueo y empleados |
 
 ## Primera entrega interna
 
 Revision de viabilidad y ajuste de meses siguientes, con esta actividad se pretende conocer y edintificar los avances que se llevan y como mejorarlos,cambiarlos o presentarlos como finalizados.
 
-| Mes | David | Leandro | Jorge | Daniel |
+| Mes | David | Jorge | Leandro | Daniel |
 |----------|----------|----------|----------|----------|
 | Mayo | Test y pruebas de estrés del sistema(pagos)  | Test y pruebas de estrés del sistema(conexiones) | Test y pruebas de estrés del sistema(informes) |Test y pruebas de estrés del sistema(operación) |
 | Junio | Control de requerimientos | Control de requerimientos | Control de requerimientos | Control de requerimientos |
